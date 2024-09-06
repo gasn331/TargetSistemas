@@ -1,0 +1,5 @@
+C:\Users\Gabriel\source\repos\TestesDeUnidadeNUnit\obj\Debug\net8.0\TestesDeUnidadeNUnit.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\TestesDeUnidadeNUnit\obj\Debug\net8.0\TestesDeUnidadeNUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\TestesDeUnidadeNUnit\obj\Debug\net8.0\TestesDeUnidadeNUnit.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\TestesDeUnidadeNUnit\obj\Debug\net8.0\TestesDeUnidadeNUnit.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\TestesDeUnidadeNUnit\obj\Debug\net8.0\TestesDeUnidadeNUnit.csproj.CoreCompileInputs.cache
